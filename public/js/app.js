@@ -1,4 +1,4 @@
-console.log('Client side javascript file is loaded!')
+// console.log('Client side javascript file is loaded!')
 
 
 // form default reloaded the page when click button
